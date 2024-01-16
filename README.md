@@ -21,3 +21,9 @@ Excel Data Transformation: Seamlessly migrate existing production data from Exce
 Problem Deployment: Deployment of production lines  bottlenecks with MS Access
 
 Shift Report: Automated creation and dispatch of daily production reports using MS Access through email
+![dashboard 3](https://github.com/Oyedeone/Plant-performance-data-management-System/assets/105151934/5ff2a169-68ae-400e-9f34-36e534fa46ea)
+
+![dashboard](https://github.com/Oyedeone/Plant-performance-data-management-System/assets/105151934/2660c961-aa81-4410-b836-61d1bb82d8ba)
+
+
+![dashboard 2](https://github.com/Oyedeone/Plant-performance-data-management-System/assets/105151934/3cdc548c-033b-459d-bae1-c458447e6e89)
